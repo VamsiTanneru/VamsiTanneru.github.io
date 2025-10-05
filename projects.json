@@ -1,29 +1,42 @@
 [
   {
-    "title": "Court eFiling Insights",
+    "title": "Airline Reviews Sentiment Analysis",
+    "tags": [
+      "Python",
+      "NLP",
+      "scikit-learn"
+    ],
+    "description": "Classified airline review sentiment and surfaced drivers of satisfaction vs. dissatisfaction.",
+    "repo": "https://github.com/VamsiTanneru/AirlineReviewsSentimentAnalysis"
+  },
+  {
+    "title": "Autism Screening Prediction",
+    "tags": [
+      "Python",
+      "ML",
+      "Classification"
+    ],
+    "description": "Built and evaluated models to predict autism screening outcomes; explored feature importance.",
+    "repo": "https://github.com/VamsiTanneru/AutismScreeningPrediction"
+  },
+  {
+    "title": "House Price Prediction",
+    "tags": [
+      "Python",
+      "Regression",
+      "EDA"
+    ],
+    "description": "End-to-end pipeline for predicting house prices including data prep, modeling, and evaluation.",
+    "repo": "https://github.com/VamsiTanneru/HousePricePrediction"
+  },
+  {
+    "title": "LegalConnect Power BI Dashboards",
     "tags": [
       "Power BI",
-      "Analytics"
+      "Analytics",
+      "Operations"
     ],
-    "description": "Analyzed rejection vs success rates from Jan 2024 onward; built dashboards to spotlight top documents and reasons.",
-    "repo": "https://github.com/yourname/efiling-insights"
-  },
-  {
-    "title": "Stripe Onboarding Monitor",
-    "tags": [
-      "Product Ops",
-      "Stripe API"
-    ],
-    "description": "Documented and visualized Stripe onboarding states; proposed improved UX for error handling and status refresh.",
-    "repo": "https://github.com/yourname/stripe-onboarding-notes"
-  },
-  {
-    "title": "Splunk Error Explorer",
-    "tags": [
-      "Splunk",
-      "Dashboards"
-    ],
-    "description": "Queried API error logs and built actionable reports to reduce noisy failures across services.",
-    "repo": "https://github.com/yourname/splunk-error-explorer"
+    "description": "Professional dashboards (summaries only) including: eFiling rejections vs. success, top-filed documents, document-level rejection reasons, and operational insights. Demo links available on request.",
+    "repo": ""
   }
 ]
