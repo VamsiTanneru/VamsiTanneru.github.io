@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Court eFiling Insights",
+    "tags": [
+      "Power BI",
+      "Analytics"
+    ],
+    "description": "Analyzed rejection vs success rates from Jan 2024 onward; built dashboards to spotlight top documents and reasons.",
+    "repo": "https://github.com/yourname/efiling-insights"
+  },
+  {
+    "title": "Stripe Onboarding Monitor",
+    "tags": [
+      "Product Ops",
+      "Stripe API"
+    ],
+    "description": "Documented and visualized Stripe onboarding states; proposed improved UX for error handling and status refresh.",
+    "repo": "https://github.com/yourname/stripe-onboarding-notes"
+  },
+  {
+    "title": "Splunk Error Explorer",
+    "tags": [
+      "Splunk",
+      "Dashboards"
+    ],
+    "description": "Queried API error logs and built actionable reports to reduce noisy failures across services.",
+    "repo": "https://github.com/yourname/splunk-error-explorer"
+  }
+]
